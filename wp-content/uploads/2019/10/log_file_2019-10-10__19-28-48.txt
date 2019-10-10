@@ -1,0 +1,50 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://wordpress
+Data file = W:\domains\wordpress/wp-content/uploads/2019/10/demo-content-import-file_2019-10-10__19-28-48.xml
+Widget file = W:\domains\wordpress/wp-content/uploads/2019/10/demo-widgets-import-file_2019-10-10__19-28-48.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Archives/Index Sidebar : 
+
+Osetin Categories - Popular Categories - Imported
+Osetin Testimonial - What Our Customers Show - Imported
+Popular Posts [Top 10] - Popular Posts - Imported
+Tag Cloud - Popular Tags - Imported
+
+Footer Sidebar : 
+
+Text - About Me - Imported
+Custom HTML - Contact Me - Imported
+Navigation Menu - Important Links - Imported
+Custom HTML - Find on Facebook - Imported
+
+Single Post Sidebar : 
+
+Osetin Categories - Popular Categories - Imported
+Osetin Testimonial - Testimonials - Imported
+Popular Posts [Top 10] - Popular Posts - Imported
+Tag Cloud - Popular Tags - Imported
+
+Service Page Sidebar : 
+
+Osetin Call To Action - Why Choose Us? - Imported
+
+Single Page Sidebar : 
+
+Osetin Call To Action - Why Choose Us? - Imported
+
+
+
+---pt-ocdi/after_import---
+
